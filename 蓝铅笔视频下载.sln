@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "蓝铅笔视频下载", "蓝铅笔视频下载\蓝铅笔视频下载.csproj", "{752B7ACE-2761-4331-B8A8-AB8FED6D21AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752B7ACE-2761-4331-B8A8-AB8FED6D21AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752B7ACE-2761-4331-B8A8-AB8FED6D21AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752B7ACE-2761-4331-B8A8-AB8FED6D21AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752B7ACE-2761-4331-B8A8-AB8FED6D21AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ACAE81-D08D-4227-A036-2315397AB23E}
+	EndGlobalSection
+EndGlobal
